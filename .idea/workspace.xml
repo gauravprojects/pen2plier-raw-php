@@ -31,7 +31,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="26" column="134" selection-start-line="26" selection-start-column="134" selection-end-line="26" selection-end-column="134" />
               <folding>
                 <marker date="1468602321831" expanded="true" signature="81:139" placeholder="INSERT INTO ..." />
@@ -41,15 +41,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-archive.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog-archive.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog-archive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.93703705">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="253" column="42" selection-start-line="234" selection-start-column="36" selection-end-line="253" selection-end-column="42" />
               <folding>
                 <marker date="1468676766395" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
                 <marker date="1468676766395" expanded="true" signature="30353:30382" placeholder="SELECT COUNT..visitors..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15232974">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,7 +77,7 @@
       <file leaf-file-name="gallery.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="24" column="134" selection-start-line="24" selection-start-column="134" selection-end-line="24" selection-end-column="134" />
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
@@ -81,7 +91,7 @@
       <file leaf-file-name="top10science.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/top10science.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.076923">
+            <state vertical-scroll-proportion="0.0">
               <caret line="248" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="760" selection-end-column="7" />
               <folding>
                 <marker date="1468554742479" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
@@ -94,7 +104,7 @@
       <file leaf-file-name="robotics_in_schools.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/robotics_in_schools.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.461538">
+            <state vertical-scroll-proportion="0.0">
               <caret line="617" column="103" selection-start-line="617" selection-start-column="103" selection-end-line="617" selection-end-column="103" />
               <folding>
                 <marker date="1468676456069" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
@@ -112,7 +122,6 @@
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/schools.html" />
-        <option value="$PROJECT_DIR$/connection.php" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/course.html" />
         <option value="$PROJECT_DIR$/schools.php" />
@@ -132,6 +141,7 @@
         <option value="$PROJECT_DIR$/gallery.php" />
         <option value="$PROJECT_DIR$/robotics_in_schools.php" />
         <option value="$PROJECT_DIR$/blog-archive.php" />
+        <option value="$PROJECT_DIR$/connection.php" />
       </list>
     </option>
   </component>
@@ -147,10 +157,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1365" />
-    <option name="height" value="726" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -175,7 +185,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,12 +220,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pen2plier2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistoryKey" value="sty&#9;FILE&#9;file://C:/xampp/htdocs/Varsity/assets/css/style.css" />
   </component>
@@ -261,10 +271,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1365" height="726" extended-state="0" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23678161" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24045801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -537,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/connection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="2" selection-start-line="20" selection-start-column="1" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -619,10 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="212" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="729" selection-end-column="7" />
-          <folding>
-            <marker date="1468481709301" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1468481709301" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="107" column="62" selection-start-line="107" selection-start-column="62" selection-end-line="107" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,13 +666,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="663" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/robotics_in_schools.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.461538">
+        <state vertical-scroll-proportion="0.0">
           <caret line="617" column="103" selection-start-line="617" selection-start-column="103" selection-end-line="617" selection-end-column="103" />
           <folding>
             <marker date="1468676456069" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
@@ -686,7 +682,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/top10science.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
+        <state vertical-scroll-proportion="0.0">
           <caret line="248" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="760" selection-end-column="7" />
           <folding>
             <marker date="1468554742479" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
@@ -697,12 +693,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog-archive.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93703705">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="253" column="42" selection-start-line="234" selection-start-column="36" selection-end-line="253" selection-end-column="42" />
           <folding>
             <marker date="1468676766395" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
             <marker date="1468676766395" expanded="true" signature="30353:30382" placeholder="SELECT COUNT..visitors..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15232974">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

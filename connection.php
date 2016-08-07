@@ -7,8 +7,8 @@
  */
 
 $servername= "localhost";
-$username= "root";
-$password= "";
+$username= "pen2plier_user";
+$password= "india123.";
 $dbname="pen2plier";
 
 // Create connection
