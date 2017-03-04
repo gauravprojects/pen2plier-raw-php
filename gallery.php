@@ -124,6 +124,7 @@ if ($conn->query($sql) === TRUE) {
                     <li><a href="index.php">Home</a></li>
                     <li><a href="blog-archive.php">Blog</a> </li>
                     <li class="active"><a href="gallery.php">Gallery</a></li>
+                    <li><a href="downloads.php">Downloads</a> </li>
 
                     <!-- courses drop down -->
 

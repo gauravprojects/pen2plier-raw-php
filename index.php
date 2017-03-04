@@ -65,6 +65,8 @@
 </a>
 <!-- END SCROLL TOP BUTTON -->
 
+
+
 <!-- Start header  -->
 <header id="mu-header">
     <div class="container">
@@ -126,6 +128,8 @@
                     <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="blog-archive.php">Blog</a> </li>
                     <li><a href="gallery.php">Gallery</a></li>
+                    
+                    <li><a href="downloads.php">Downloads</a> </li>
                     <!-- <li><a href="schools.php">Schools</a> </li> -->
 
                     <!-- courses drop down -->
@@ -279,13 +283,23 @@
                                     <h2>About Us</h2>
                                 </div>
                                 <!-- End Title -->
-                                <p>Pen2Plier is a organisation comprised of B.Tech graduates. After working 4 years in the field of robotics and Industrial automation,
-                                    we have decided to use our knowledge and education for spreading robotic education among young growing talents.
+                                <p>The art of being able to perceive things the way they are and to be able to implement them is technical bliss that
+                                    one can possibly imagine of. The whole idea of be imagine the world of 2025 where most of our lives would be
+                                    dictated by the terms of artificial intelligence and internet of things to be a handicapped at the hands of technology
+                                    would imply sheer ignorance. This is the time where we can sow the seeds of curiosity in the young kids. The art of questioning
+                                    and being intimidated by the technology around
+                                    us and being physically and visually intimidated. There are a lot of young minds who are curious to see beyond
+                                    just the physical body of the machine, they wish to dissect through the body to get inside the actual mechanism of
+                                    it and produce a replica that would come to their rescue at time of crisis in school or in personal life.
+                                    There is a need to think out of the box as with advancements of technology the need for enhancement of knowledge
+                                    and adoption of the technology is growing at an exponential rate.
+                                    The world is not far when our day to day activities would be dictated by science and artificial intelligence.
                                     <br><br>
-                                    Indian youth has a great potential, they have again and again proven it at various occasions in various situations.
-                                    But what they lack is proper learning and guidance. Pen2Plier is dedicated to rectify short comings of Indian school education.
-                                    We have designed special courses can act as supplement to education provided at schools and colleges.
-                                    These courses provides required practical knowledge which is very important to understand theoretical concepts.</p>
+                                    Impassioned by the depths of science and technology and its beauty,
+                                    graduates from multiple facets of engineering have ventured into a task of
+                                    imbibing knowledge through practical demonstration and implementation of it amongst the
+                                    young students. With 4 years of rich experience in robotics and industrial automation,
+                                    the focus is to share the knowledge and induce young minds with curiosity and thirst for it.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -373,33 +387,56 @@
 
 
                             <div class="col-lg-4 col-md-4  col-sm-6">
-                                <div class="mu-single-feature">
-                                    <span class="fa fa-book"></span>
-                                    <h4>Interactive curriculum</h4>
-                                    <p>Highly interactive curriculum to keep the students engaged and learn concepts in a better way.</p>
-                                    <!--<a href="#">Read More</a>-->
+                                <div style="text-align: center">
+                                    <img src="assets/img/features/1.jpg" height="100px" width="100px" />
+                                    <br><br>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Classroom Sessions</h4>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-4  col-sm-6">
+                                <div style="text-align: center">
+                                    <img src="assets/img/features/2.jpg" height="100px" width="100px" />
+                                    <br><br>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Robotics Labs</h4>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-4  col-sm-6">
+                                <div style="text-align: center">
+                                    <img src="assets/img/features/3.jpg" height="100px" width="100px" />
+                                    <br><br>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Take Away Kits</h4>
                                 </div>
                             </div>
 
 
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="mu-single-feature">
-                                    <span class="fa fa-users"></span>
-                                    <h4>Expert Teachers</h4>
-                                    <p>B.Tech graduates with four years experince in the field of robotics to provide high quality teaching.</p>
-                                    <!--<a href="#">Read More</a>-->
+
+
+
+                            <div class="col-lg-4 col-md-4  col-sm-6">
+                                <div style="text-align: center; margin-top: 50px">
+                                    <img src="assets/img/features/4.jpg" height="100px" width="100px" />
+                                    <br><br>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Fun Activities</h4>
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="mu-single-feature">
-                                    <span class="fa fa-cogs"></span>
-                                    <h4>Fun activities</h4>
-                                    <p>Fun interactive activities to keep the environment healthy and make students understand concepts in a practical way.</p>
-                                    <!--<a href="#">Read More</a>-->
+                            <div class="col-lg-4 col-md-4  col-sm-6">
+                                <div style="text-align: center; margin-top: 50px">
+                                    <img src="assets/img/features/5.jpg" height="100px" width="100px" />
+                                    <br><br>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Developing Curiosity </h4>
                                 </div>
                             </div>
 
+                            <div class="col-lg-4 col-md-4  col-sm-6">
+                                <div style="text-align: center; margin-top: 50px">
+                                    <img src="assets/img/features/6.jpg" height="100px" width="100px" />
+                                    <br><br>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Fun Activities</h4>
+                                </div>
+                            </div>
 
 
                         </div>
@@ -412,20 +449,19 @@
 </section>
 <!-- End features section -->
 
-<!-- Start latest course section -->
+<!--  Start latest course section -->
 <!--<section id="mu-latest-courses">-->
 <!--    <div class="container">-->
 <!--        <div class="row">-->
 <!--            <div class="col-lg-12 col-md-12">-->
 <!--                <div class="mu-latest-courses-area">-->
-<!--                    <!-- Start Title -->
+                    <!-- Start Title -->
 <!--                    <div class="mu-title">-->
 <!--                        <h2>Courses</h2>-->
 <!--                        <p>Specially designed courses to meet requirements of large range of students. Students of various set of skills and mental level-->
 <!--                            can benifit from these courses. Basically these courses are divided amoing various standards according to thier normal school curriculum</p>-->
 <!--                    </div>-->
-                    <!-- End Title -->
-                    <!-- Start latest course content -->
+
 <!--                    <div id="mu-latest-course-slide" class="mu-latest-courses-content">-->
 <!--                        <div class="col-lg-4 col-md-4 col-xs-12">-->
 <!--                            <div class="mu-latest-course-single">-->
@@ -441,7 +477,7 @@
 <!--                                    <p>Year long program to provide basic understanding to core concepts laying emphasis on basic concepts of science and thier application in robotics..</p>-->
 <!--                                    <div class="mu-latest-course-single-contbottom">-->
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
-<!--                                        <!--<span class="mu-course-price" href="#">$165.00</span>-->
+                                        <!--<span class="mu-course-price" href="#">$165.00</span> -->
 <!--                                    </div>-->
 <!--                                </div>-->
 <!--                            </div>-->
@@ -460,7 +496,7 @@
 <!--                                    <p>Whole course is divided into various modules, providing students flexibility to management and students, choose any specific module they want to.</p>-->
 <!--                                    <div class="mu-latest-course-single-contbottom">-->
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
-                                        <!--<span class="mu-course-price" href="#">$165.00</span>-->
+<!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
 <!--                                    </div>-->
 <!--                                </div>-->
 <!--                            </div>-->
@@ -479,7 +515,7 @@
 <!--                                    <p>Summer vaccations is the best time when student a develop his/her extra curricular skills without worrying about daily school curriculum</p>-->
 <!--                                    <div class="mu-latest-course-single-contbottom">-->
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
-<!--                                        <!--<span class="mu-course-price" href="#">$165.00</span>-->
+<!--                                        <!--<span class="mu-course-price" href="#">$165.00</span> -->-->
 <!--                                    </div>-->
 <!--                                </div>-->
 <!--                            </div>-->
@@ -499,20 +535,19 @@
 <!--                                        of time.</p>-->
 <!--                                    <div class="mu-latest-course-single-contbottom">-->
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
-                                        <!--<span class="mu-course-price" href="#">$165.00</span>-->
+<!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
 <!--                                    </div>-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                        </div>-->
 
 
-                        <!-- End latest course content -->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</section>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- End latest course section -->
 
 <!-- Start our teacher -->
