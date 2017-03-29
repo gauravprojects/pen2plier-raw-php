@@ -259,7 +259,7 @@
                     <div class="mu-service-single">
                         <span class="fa fa-table"></span>
                         <h3>Interactive Classrooms</h3>
-                        <p>Activities and demos make the teaching experience very interactive. Students learn with fun keeping healthy environment of class. </p>
+                        <p>Activities and demos make the teaching experience very interactive. Students learn with fun. </p>
                     </div>
                     <!-- Start single service -->
                 </div>
@@ -283,23 +283,13 @@
                                     <h2>About Us</h2>
                                 </div>
                                 <!-- End Title -->
-                                <p>The art of being able to perceive things the way they are and to be able to implement them is technical bliss that
-                                    one can possibly imagine of. The whole idea of be imagine the world of 2025 where most of our lives would be
-                                    dictated by the terms of artificial intelligence and internet of things to be a handicapped at the hands of technology
-                                    would imply sheer ignorance. This is the time where we can sow the seeds of curiosity in the young kids. The art of questioning
-                                    and being intimidated by the technology around
-                                    us and being physically and visually intimidated. There are a lot of young minds who are curious to see beyond
-                                    just the physical body of the machine, they wish to dissect through the body to get inside the actual mechanism of
-                                    it and produce a replica that would come to their rescue at time of crisis in school or in personal life.
-                                    There is a need to think out of the box as with advancements of technology the need for enhancement of knowledge
-                                    and adoption of the technology is growing at an exponential rate.
-                                    The world is not far when our day to day activities would be dictated by science and artificial intelligence.
-                                    <br><br>
-                                    Impassioned by the depths of science and technology and its beauty,
-                                    graduates from multiple facets of engineering have ventured into a task of
-                                    imbibing knowledge through practical demonstration and implementation of it amongst the
-                                    young students. With 4 years of rich experience in robotics and industrial automation,
-                                    the focus is to share the knowledge and induce young minds with curiosity and thirst for it.</p>
+                                <p> Pen2Plier is a organisation comprised of B.Tech graduates. After working 4 years in the field of robotics and Industrial automation,
+                                we have decided to use our knowledge and education for spreading robotic education among young growing talents.
+                                <br><br>
+                                Indian youth has a great potential, they have again and again proven it at various occasions in various situations.
+                                But what they lack is proper learning and guidance. Pen2Plier is dedicated to rectify short comings of Indian school education.
+                                We have designed special courses can act as supplement to education provided at schools and colleges.
+                                These courses provides required practical knowledge which is very important to understand theoretical concepts.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -434,7 +424,7 @@
                                 <div style="text-align: center; margin-top: 50px">
                                     <img src="assets/img/features/6.jpg" height="100px" width="100px" />
                                     <br><br>
-                                    <h4  style="color: #1c6a71; font-weight: 600">Fun Activities</h4>
+                                    <h4  style="color: #1c6a71; font-weight: 600">Learning by Doing</h4>
                                 </div>
                             </div>
 
@@ -450,96 +440,98 @@
 <!-- End features section -->
 
 <!--  Start latest course section -->
-<!--<section id="mu-latest-courses">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-lg-12 col-md-12">-->
-<!--                <div class="mu-latest-courses-area">-->
-                    <!-- Start Title -->
-<!--                    <div class="mu-title">-->
-<!--                        <h2>Courses</h2>-->
-<!--                        <p>Specially designed courses to meet requirements of large range of students. Students of various set of skills and mental level-->
-<!--                            can benifit from these courses. Basically these courses are divided amoing various standards according to thier normal school curriculum</p>-->
-<!--                    </div>-->
+<section id="mu-latest-courses">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="mu-latest-courses-area">
+                     Start Title
+                    <div class="mu-title">
+                        <h2>Courses</h2>
+                    </div>
 
-<!--                    <div id="mu-latest-course-slide" class="mu-latest-courses-content">-->
-<!--                        <div class="col-lg-4 col-md-4 col-xs-12">-->
-<!--                            <div class="mu-latest-course-single">-->
-<!--                                <figure class="mu-latest-course-img">-->
-<!--                                    <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>-->
-<!--                                    <figcaption class="mu-latest-course-imgcaption">-->
-<!--                                        <a href="#">Year long programme</a>-->
-<!--                                        <span><i class="fa fa-clock-o"></i>1 year</span>-->
-<!--                                    </figcaption>-->
-<!--                                </figure>-->
-<!--                                <div class="mu-latest-course-single-content">-->
-<!--                                    <h4><a href="#">Annual curriculum for school students.</a></h4>-->
-<!--                                    <p>Year long program to provide basic understanding to core concepts laying emphasis on basic concepts of science and thier application in robotics..</p>-->
-<!--                                    <div class="mu-latest-course-single-contbottom">-->
-<!--                                        <a class="mu-course-details" href="#">Details</a>-->
-                                        <!--<span class="mu-course-price" href="#">$165.00</span> -->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="col-lg-4 col-md-4 col-xs-12">-->
-<!--                            <div class="mu-latest-course-single">-->
-<!--                                <figure class="mu-latest-course-img">-->
-<!--                                    <a href="#"><img src="assets/img/courses/2.jpg" alt="img"></a>-->
-<!--                                    <figcaption class="mu-latest-course-imgcaption">-->
-<!--                                        <a href="#">Module based programme </a>-->
-<!--                                        <span><i class="fa fa-clock-o"></i>Variable</span>-->
-<!--                                    </figcaption>-->
-<!--                                </figure>-->
-<!--                                <div class="mu-latest-course-single-content">-->
-<!--                                    <h4><a href="#">Course is divided into various modules.</a></h4>-->
-<!--                                    <p>Whole course is divided into various modules, providing students flexibility to management and students, choose any specific module they want to.</p>-->
-<!--                                    <div class="mu-latest-course-single-contbottom">-->
+                    <div id="mu-latest-course-slide" class="mu-latest-courses-content">
+                        <div class="col-lg-4 col-md-4 col-xs-12">
+                            <div class="mu-latest-course-single">
+                                <figure class="mu-latest-course-img">
+                                    <a href="#"><img src="assets/img/courses/2.jpg" alt="img"></a>
+                                    <figcaption class="mu-latest-course-imgcaption">
+                                        <a href="#">Classroom Sessions</a>
+                                        <span><i class="fa fa-clock-o"></i>1 year</span>
+                                    </figcaption>
+                                </figure>
+                                <div class="mu-latest-course-single-content">
+                                    <h4><a href="#">Annual curriculum for school students.</a></h4>
+                                    <p>Year long program to provide basic understanding to core concepts of science and thier application in robotics.</p>
+                                    <div class="mu-latest-course-single-contbottom">
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
 <!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="col-lg-4 col-md-4 col-xs-12">-->
-<!--                            <div class="mu-latest-course-single">-->
-<!--                                <figure class="mu-latest-course-img">-->
-<!--                                    <a href="#"><img src="assets/img/courses/3.jpg" alt="img"></a>-->
-<!--                                    <figcaption class="mu-latest-course-imgcaption">-->
-<!--                                        <a href="#">Summer Camps</a>-->
-<!--                                        <span><i class="fa fa-clock-o"></i>30 Days</span>-->
-<!--                                    </figcaption>-->
-<!--                                </figure>-->
-<!--                                <div class="mu-latest-course-single-content">-->
-<!--                                    <h4><a href="#">Summer activities designed to make most of the vacations.</a></h4>-->
-<!--                                    <p>Summer vaccations is the best time when student a develop his/her extra curricular skills without worrying about daily school curriculum</p>-->
-<!--                                    <div class="mu-latest-course-single-contbottom">-->
-<!--                                        <a class="mu-course-details" href="#">Details</a>-->
-<!--                                        <!--<span class="mu-course-price" href="#">$165.00</span> -->-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="col-lg-4 col-md-4 col-xs-12">-->
-<!--                            <div class="mu-latest-course-single">-->
-<!--                                <figure class="mu-latest-course-img">-->
-<!--                                    <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>-->
-<!--                                    <figcaption class="mu-latest-course-imgcaption">-->
-<!--                                        <a href="#">Workshops</a>-->
-<!--                                        <span><i class="fa fa-clock-o"></i>2-3 Days</span>-->
-<!--                                    </figcaption>-->
-<!--                                </figure>-->
-<!--                                <div class="mu-latest-course-single-content">-->
-<!--                                    <h4><a href="#">Short productive workshops</a></h4>-->
-<!--                                    <p>2-3 Days workshop for quick walk through over the course. Such programmes prove to be most efficient as large topics are covered in short duration-->
-<!--                                        of time.</p>-->
-<!--                                    <div class="mu-latest-course-single-contbottom">-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-xs-12">
+                            <div class="mu-latest-course-single">
+                                <figure class="mu-latest-course-img">
+                                    <a href="#"><img src="assets/img/courses/3.jpg" alt="img"></a>
+                                    <figcaption class="mu-latest-course-imgcaption">
+                                        <a href="#">PRC - Pen2plier Robotics Center </a>
+                                        <span><i class="fa fa-clock-o"></i>Variable</span>
+                                    </figcaption>
+                                </figure>
+                                <div class="mu-latest-course-single-content">
+                                    <h4><a href="#">Specially designed labs to provide productive work environment.</a></h4>
+                                    <p>PRC contains all the required tools using which students can perform all the tasks assigned to them.</p>
+                                    <div class="mu-latest-course-single-contbottom">
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
 <!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-xs-12">
+                            <div class="mu-latest-course-single">
+                                <figure class="mu-latest-course-img">
+                                    <a href="#"><img src="assets/img/courses/4.jpg" alt="img"></a>
+                                    <figcaption class="mu-latest-course-imgcaption">
+                                        <a href="#">Summer Camps</a>
+                                        <span><i class="fa fa-clock-o"></i>10-15 Days</span>
+                                    </figcaption>
+                                </figure>
+                                <div class="mu-latest-course-single-content">
+                                    <h4><a href="#"></a>Crash Course for summers</h4> </p>
+                                    <p>
+                                        Summer vacations are the best time to learn new things as there is no daily day to day work of school. Student have ample time to devote to learn and apply these concepts.
+                                    </p>
+                                    <div class="mu-latest-course-single-contbottom">
+                                        <!--                                        <a class="mu-course-details" href="#">Details</a>-->
+                                        <!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-xs-12">
+                            <div class="mu-latest-course-single">
+                                <figure class="mu-latest-course-img">
+                                    <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
+                                    <figcaption class="mu-latest-course-imgcaption">
+                                        <a href="#">Workshops</a>
+                                        <span><i class="fa fa-clock-o"></i>2-3 Days</span>
+                                    </figcaption>
+                                </figure>
+                                <div class="mu-latest-course-single-content">
+                                    <h4><a href="#">Short productive workshops</a></h4>
+                                    <p>2-3 Days workshop for quick walk through over the course. Such programmes prove to be most efficient as large topics are covered in short duration
+                                        of time.</p>
+                                    <div class="mu-latest-course-single-contbottom">
+<!--                                        <a class="mu-course-details" href="#">Details</a>-->
+<!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
 
                     </div>
