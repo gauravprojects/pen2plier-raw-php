@@ -126,6 +126,7 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
                     <li class="active"><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a> </li>
                     <li><a href="blog-archive.php">Blog</a> </li>
                     <li><a href="gallery.php">Gallery</a></li>
                     
@@ -270,93 +271,44 @@
 <!-- End service  -->
 
 <!-- Start about us -->
-<section id="mu-about-us">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="mu-about-us-area">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <div class="mu-about-us-left">
-                                <!-- Start Title -->
-                                <div class="mu-title">
-                                    <h2>About Us</h2>
-                                </div>
-                                <!-- End Title -->
-                                <p> Pen2Plier is a organisation comprised of B.Tech graduates. After working 4 years in the field of robotics and Industrial automation,
-                                we have decided to use our knowledge and education for spreading robotic education among young growing talents.
-                                <br><br>
-                                Indian youth has a great potential, they have again and again proven it at various occasions in various situations.
-                                But what they lack is proper learning and guidance. Pen2Plier is dedicated to rectify short comings of Indian school education.
-                                We have designed special courses can act as supplement to education provided at schools and colleges.
-                                These courses provides required practical knowledge which is very important to understand theoretical concepts.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6">
-                            <div class="mu-about-us-right">
-                                <a id="mu-abtus-video" href="https://www.youtube.com/embed/2gaShjBiuP8" target="mutube-video">
-                                    <img src="assets/img/about-us.jpg" alt="img">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<!--<section id="mu-about-us">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-12">-->
+<!--                <div class="mu-about-us-area">-->
+<!--                    <div class="row">-->
+<!--                        <div class="col-lg-6 col-md-6">-->
+<!--                            <div class="mu-about-us-left">-->
+<!--                                <!-- Start Title -->
+<!--                                <div class="mu-title">-->
+<!--                                    <h2>About Us</h2>-->
+<!--                                </div>-->
+<!--                                <!-- End Title -->
+<!--                                <p> Pen2Plier is a organisation comprised of B.Tech graduates. After working 4 years in the field of robotics and Industrial automation,-->
+<!--                                we have decided to use our knowledge and education for spreading robotic education among young growing talents.-->
+<!--                                <br><br>-->
+<!--                                Indian youth has a great potential, they have again and again proven it at various occasions in various situations.-->
+<!--                                But what they lack is proper learning and guidance. Pen2Plier is dedicated to rectify short comings of Indian school education.-->
+<!--                                We have designed special courses can act as supplement to education provided at schools and colleges.-->
+<!--                                These courses provides required practical knowledge which is very important to understand theoretical concepts.</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="col-lg-6 col-md-6">-->
+<!--                            <div class="mu-about-us-right">-->
+<!--                                <a id="mu-abtus-video" href="https://www.youtube.com/embed/2gaShjBiuP8" target="mutube-video">-->
+<!--                                    <img src="assets/img/about-us.jpg" alt="img">-->
+<!--                                </a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 <!-- End about us -->
 
-<!-- Start about us counter -->
-<section id="mu-abtus-counter">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="mu-abtus-counter-area">
-                    <div class="row">
-                        <!-- Start counter item -->
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="mu-abtus-counter-single">
-                                <span class="fa fa-university"></span>
-                                <h4 class="counter">3</h4>
-                                <p>Schools</p>
-                            </div>
-                        </div>
-                        <!-- End counter item -->
-                        <!-- Start counter item -->
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="mu-abtus-counter-single">
-                                <span class="fa fa-users"></span>
-                                <h4 class="counter">90</h4>
-                                <p>Innovators</p>
-                            </div>
-                        </div>
-                        <!-- End counter item -->
-                        <!-- Start counter item -->
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="mu-abtus-counter-single">
-                                <span class="fa fa-clock-o"></span>
-                                <h4 class="counter">4</h4>
-                                <p>Years experience</p>
-                            </div>
-                        </div>
-                        <!-- End counter item -->
-                        <!-- Start counter item -->
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="mu-abtus-counter-single no-border">
-                                <span class="fa fa-user-secret"></span>
-                                <h4 class="counter">7</h4>
-                                <p>Trainers</p>
-                            </div>
-                        </div>
-                        <!-- End counter item -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End about us counter -->
+
 
 <!-- Start features section -->
 <section id="mu-features">
@@ -439,6 +391,58 @@
 </section>
 <!-- End features section -->
 
+<!-- Start about us counter -->
+<section id="mu-abtus-counter">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mu-abtus-counter-area">
+                    <div class="row">
+                        <!-- Start counter item -->
+                        <div class="col-lg-3 col-md-3 col-sm-3">
+                            <div class="mu-abtus-counter-single">
+                                <span class="fa fa-university"></span>
+                                <h4 class="counter">3</h4>
+                                <p>Schools</p>
+                            </div>
+                        </div>
+                        <!-- End counter item -->
+                        <!-- Start counter item -->
+                        <div class="col-lg-3 col-md-3 col-sm-3">
+                            <div class="mu-abtus-counter-single">
+                                <span class="fa fa-users"></span>
+                                <h4 class="counter">90</h4>
+                                <p>Innovators</p>
+                            </div>
+                        </div>
+                        <!-- End counter item -->
+                        <!-- Start counter item -->
+                        <div class="col-lg-3 col-md-3 col-sm-3">
+                            <div class="mu-abtus-counter-single">
+                                <span class="fa fa-clock-o"></span>
+                                <h4 class="counter">4</h4>
+                                <p>Years experience</p>
+                            </div>
+                        </div>
+                        <!-- End counter item -->
+                        <!-- Start counter item -->
+                        <div class="col-lg-3 col-md-3 col-sm-3">
+                            <div class="mu-abtus-counter-single no-border">
+                                <span class="fa fa-user-secret"></span>
+                                <h4 class="counter">7</h4>
+                                <p>Trainers</p>
+                            </div>
+                        </div>
+                        <!-- End counter item -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End about us counter -->
+
+
 <!--  Start latest course section -->
 <section id="mu-latest-courses">
     <div class="container">
@@ -475,13 +479,13 @@
                                 <figure class="mu-latest-course-img">
                                     <a href="#"><img src="assets/img/courses/3.jpg" alt="img"></a>
                                     <figcaption class="mu-latest-course-imgcaption">
-                                        <a href="#">PRC - Pen2plier Robotics Center </a>
+                                        <a href="#">Capacity Building </a>
                                         <span><i class="fa fa-clock-o"></i>Variable</span>
                                     </figcaption>
                                 </figure>
                                 <div class="mu-latest-course-single-content">
-                                    <h4><a href="#">Specially designed labs to provide productive work environment.</a></h4>
-                                    <p>PRC contains all the required tools using which students can perform all the tasks assigned to them.</p>
+                                    <h4><a href="#">PRC- Pen2Plier Robotics Center</a></h4>
+                                    <p>Specially designed PRC labs for schools. PRC contains all the required tools using which students can perform all the tasks assigned to them.</p>
                                     <div class="mu-latest-course-single-contbottom">
 <!--                                        <a class="mu-course-details" href="#">Details</a>-->
 <!--                                        <span class="mu-course-price" href="#">$165.00</span>-->
@@ -640,66 +644,74 @@
 <!-- End our teacher -->
 
          <!-- Start testimonial -->
-<!--<section id="mu-testimonial">-->
-<!--<div class="container">-->
-<!--<div class="row">-->
-<!--<div class="col-md-12">-->
-<!--<div class="mu-testimonial-area">-->
-<!--<div id="mu-testimonial-slide" class="mu-testimonial-content">-->
-<!--&lt;!&ndash; start testimonial single item &ndash;&gt;-->
-<!--<div class="mu-testimonial-item">-->
-<!--<div class="mu-testimonial-quote">-->
-<!--<blockquote>-->
-<!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem rerum soluta aperiam blanditiis obcaecati eveniet aliquam consequatur nobis eaque id.</p>-->
-<!--</blockquote>-->
-<!--</div>-->
-<!--<div class="mu-testimonial-img">-->
-<!--<img src="assets/img/testimonial-1.png" alt="img">-->
-<!--</div>-->
-<!--<div class="mu-testimonial-info">-->
-<!--<h4>John Doe</h4>-->
-<!--<span>Happy Student</span>-->
-<!--</div>-->
-<!--</div>-->
+<section id="mu-testimonial">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mu-testimonial-area">
+                    <div id="mu-testimonial-slide" class="mu-testimonial-content">
+                        &lt;!&ndash; start testimonial single item &ndash;&gt;
+                        <div class="mu-testimonial-item">
+<div class="mu-testimonial-quote">
+<blockquote>
+<p>It was an experience where I relived my quest for curiosity and learning with my kids.
+    The whole experience was highly engaging and hands on. One could easily see the gleam in the eyes of the kids and the exuberance in the manner they operated.
+    All credits to the dedicated team of Prayogshala. All the best for nurturing many more prayogis ahead.</p>
+</blockquote>
+</div>
+<div class="mu-testimonial-img">
+<img src="assets/img/testimonials/amrit.jpg" alt="img">
+</div>
+<div class="mu-testimonial-info">
+<h4>Amrit Raj</h4>
+<span>TFI Fellow</span>
+</div>
+</div>
+
+<div class="mu-testimonial-item">
+<div class="mu-testimonial-quote">
+<blockquote>
+<p>I teach science to 7th graders in community of Seelampur. Prayogshala has been one of the high points of
+    delivering a science lessons in the class. It instilled a sense of curiosity and interest amongst the students.
+    The topics which remain theoretical in the texts of the book,prayogshala helped the kids to gain
+    hands on experience on them.</p>
+</blockquote>
+</div>
+<div class="mu-testimonial-img">
+<img src="assets/img/testimonials/swati.jpg" alt="img">
+</div>
+<div class="mu-testimonial-info">
+<h4>Swati Sharma</h4>
+<span>TFI Fellow</span>
+</div>
+</div>
+
+<div class="mu-testimonial-item">
+        <div class="mu-testimonial-quote">
+            <blockquote>
+                <p>What I liked the most, the concepts which I learnt theoritically
+                    earlier  were  now brought to practical practice. This helped me to
+                    me feel the subject more clearly.
+                    Pen2plier is a good initiative. Children are able to do tasks which
+                    children at this age are generally not able to do.
+                </p>
+            </blockquote>
+        </div>
+        <div class="mu-testimonial-img">
+            <img src="assets/img/testimonials/student.jpg" alt="img">
+        </div>
+        <div class="mu-testimonial-info">
+            <h4>Happy Student</h4>
+                    <span>EDPS Ghaziabad</span>
+        </div>
+</div>
 <!--&lt;!&ndash; end testimonial single item &ndash;&gt;-->
-<!--&lt;!&ndash; start testimonial single item &ndash;&gt;-->
-<!--<div class="mu-testimonial-item">-->
-<!--<div class="mu-testimonial-quote">-->
-<!--<blockquote>-->
-<!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem rerum soluta aperiam blanditiis obcaecati eveniet aliquam consequatur nobis eaque id.</p>-->
-<!--</blockquote>-->
-<!--</div>-->
-<!--<div class="mu-testimonial-img">-->
-<!--<img src="assets/img/testimonial-3.png" alt="img">-->
-<!--</div>-->
-<!--<div class="mu-testimonial-info">-->
-<!--<h4>Rebaca Michel</h4>-->
-<!--<span>Happy Parent</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--&lt;!&ndash; end testimonial single item &ndash;&gt;-->
-<!--&lt;!&ndash; start testimonial single item &ndash;&gt;-->
-<!--<div class="mu-testimonial-item">-->
-<!--<div class="mu-testimonial-quote">-->
-<!--<blockquote>-->
-<!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem rerum soluta aperiam blanditiis obcaecati eveniet aliquam consequatur nobis eaque id.</p>-->
-<!--</blockquote>-->
-<!--</div>-->
-<!--<div class="mu-testimonial-img">-->
-<!--<img src="assets/img/testimonial-2.png" alt="img">-->
-<!--</div>-->
-<!--<div class="mu-testimonial-info">-->
-<!--<h4>Stev Smith</h4>-->
-<!--<span>Happy Student</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--&lt;!&ndash; end testimonial single item &ndash;&gt;-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</section>-->
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
  <!--End testimonial -->
 
 <!-- Start from blog -->
