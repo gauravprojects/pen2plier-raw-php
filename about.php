@@ -335,7 +335,7 @@
             </div>
 
             <div>
-                <H3 STYLE="text-align: center; color:#096067;"> ANADI MISHRA</H3>
+                <H3 STYLE="text-align: center; color:#096067;"> ANADI SHUKLA</H3>
             </div>
 
             <div style="margin-top: 15px; font-size: 14px; text-align: center; width: 45%; margin-left: 28%">
