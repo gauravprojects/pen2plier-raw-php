@@ -402,7 +402,7 @@
                         <div class="col-lg-3 col-md-3 col-sm-3">
                             <div class="mu-abtus-counter-single">
                                 <span class="fa fa-university"></span>
-                                <h4 class="counter">3</h4>
+                                <h4 class="counter">6</h4>
                                 <p>Schools</p>
                             </div>
                         </div>
@@ -411,7 +411,7 @@
                         <div class="col-lg-3 col-md-3 col-sm-3">
                             <div class="mu-abtus-counter-single">
                                 <span class="fa fa-users"></span>
-                                <h4 class="counter">90</h4>
+                                <h4 class="counter">400</h4>
                                 <p>Innovators</p>
                             </div>
                         </div>
@@ -803,7 +803,7 @@
         <div class="container">
             <div class="mu-footer-top-area">
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3">
+<!--                    <div class="col-lg-3 col-md-2 col-sm-3">-->
 <!--                        <div class="mu-footer-widget">-->
 <!--                            <h4>Information</h4>-->
 <!--                            <ul>-->
@@ -815,32 +815,21 @@
 <!--                                <li><a href="">Term Of Use</a></li>-->
 <!--                            </ul>-->
 <!--                        </div>-->
+<!--                    </div>-->
 
 
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3">
-<!--                        <div class="mu-footer-widget">-->
-<!--                            <h4>Student Help</h4>-->
-<!--                            <ul>-->
-<!--                                <li><a href="">Get Started</a></li>-->
-<!--                                <li><a href="#">My Questions</a></li>-->
-<!--                                <li><a href="">Download Files</a></li>-->
-<!--                                <li><a href="">Latest Course</a></li>-->
-<!--                                <li><a href="">Academic News</a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
-
-
-
+                    <div class="col-lg-6 col-md-3 col-sm-2">
 
                     </div>
+
                     <div class="col-lg-3 col-md-3 col-sm-3">
                         <div class="mu-footer-widget">
                             <h4>News letter</h4>
                             <p>Get latest update, news & academic offers</p>
-                            <form class="mu-subscribe-form">
-                                <input type="email" placeholder="Type your Email">
+                            <form class="mu-subscribe-form" action="process_subscribtion.php" method="post">
+                                <input type="email" placeholder="Type your Email" name="email">
                                 <button class="mu-subscribe-btn" type="submit">Subscribe!</button>
+
                             </form>
                         </div>
                     </div>
