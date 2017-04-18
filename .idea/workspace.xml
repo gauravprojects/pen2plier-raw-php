@@ -31,11 +31,11 @@
       <file leaf-file-name="udbhaavan.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/udbhaavan.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.615385">
-              <caret line="222" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="651" selection-end-column="7" />
+            <state vertical-scroll-proportion="-5.0545454">
+              <caret line="245" column="85" selection-start-line="245" selection-start-column="85" selection-end-line="245" selection-end-column="85" />
               <folding>
-                <marker date="1492522150762" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-                <marker date="1492522150762" expanded="true" signature="35053:35082" placeholder="SELECT COUNT..visitors..." />
+                <marker date="1492543320475" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
+                <marker date="1492543320475" expanded="true" signature="35055:35084" placeholder="SELECT COUNT..visitors..." />
               </folding>
             </state>
           </provider>
@@ -177,7 +177,6 @@
         <option value="$PROJECT_DIR$/process_subscribtion.php" />
         <option value="$PROJECT_DIR$/events.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/udbhaavan.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/roboline.php" />
         <option value="$PROJECT_DIR$/about.php" />
@@ -185,6 +184,7 @@
         <option value="$PROJECT_DIR$/gallery.php" />
         <option value="$PROJECT_DIR$/downloads.php" />
         <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/udbhaavan.php" />
         <option value="$PROJECT_DIR$/connection.php" />
       </list>
     </option>
@@ -674,17 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udbhaavan.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.615385">
-          <caret line="222" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="651" selection-end-column="7" />
-          <folding>
-            <marker date="1492522150762" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-            <marker date="1492522150762" expanded="true" signature="35053:35082" placeholder="SELECT COUNT..visitors..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/designs/flex/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -744,6 +733,17 @@
         <state vertical-scroll-proportion="-18.307692">
           <caret line="130" column="25" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udbhaavan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0545454">
+          <caret line="245" column="85" selection-start-line="245" selection-start-column="85" selection-end-line="245" selection-end-column="85" />
+          <folding>
+            <marker date="1492543320475" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
+            <marker date="1492543320475" expanded="true" signature="35055:35084" placeholder="SELECT COUNT..visitors..." />
+          </folding>
         </state>
       </provider>
     </entry>

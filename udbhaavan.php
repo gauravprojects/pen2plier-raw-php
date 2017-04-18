@@ -237,13 +237,13 @@ if ($conn->query($sql) === TRUE) {
                                     <div class="mu-single-gallery">
                                         <div class="mu-single-gallery-item">
                                             <div class="mu-single-gallery-img">
-                                                <a href="#"><img alt="img" src="assets/img/gallery/small/56.jpg"></a>
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/156.jpg"></a>
                                             </div>
                                             <div class="mu-single-gallery-info">
                                                 <div class="mu-single-gallery-info-inner">
                                                     <h4>Udbhaavan</h4>
                                                     <p>Glimpse from Udbhaavan 2017</p>
-                                                    <a href="assets/img/gallery/big/56.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="assets/img/gallery/big/156.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
                                                     <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
                                                 </div>
                                             </div>
