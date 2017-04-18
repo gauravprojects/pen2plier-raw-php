@@ -106,7 +106,7 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="blog-archive.php">Blog</a> </li>
                     <li><a href="gallery.php">Gallery</a></li>
-                    <li><a href="downloads.php">Downloads</a> </li>
+                    <li class="active"><a href="downloads.php">Downloads</a> </li>
 
 
                     <!-- <li><a href="schools.php">Schools</a> </li> -->
@@ -120,7 +120,13 @@
                     <!--</ul>-->
                     <!--</li>           -->
 
-
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="fa fa-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="udbhaavan.php">Udbhaavan</a></li>
+                            <li><a href="roboline.php">Roboline</a></li>
+                        </ul>
+                    </li>
                     <!-- gallery dropdown -->
 
                     <!--<li><a href="gallery.php">Gallery</a></li>-->
@@ -131,7 +137,7 @@
                     <!--<li><a href="blog-single.php">Blog Single</a></li>                -->
                     <!--</ul>-->
                     <!--</li>            -->
-                    <li class="active"><a href="contact.php">Contact</a></li>
+                    <li><a href="contact.php">Contact</a></li>
 
 
 

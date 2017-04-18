@@ -149,7 +149,13 @@
                     <!--</ul>-->
                     <!--</li>           -->
 
-
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="fa fa-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="udbhaavan.php">Udbhaavan</a></li>
+                            <li><a href="roboline.php">Roboline</a></li>
+                        </ul>
+                    </li>
                     <!-- gallery dropdown -->
 
                     <!--<li><a href="gallery.php">Gallery</a></li>-->

@@ -23,7 +23,7 @@ if ($conn->query($sql) === TRUE) {
 
     <meta name="description" content="Pen2Plier education Building innovators by promoting practical education" />
     <meta name="Keywords" content="robotics school education,Pen2Plier,robotics,practical education,technology,eduction,innovation" />
-    <title>Pen2Plier | Schools</title>
+    <title>Pen2Plier | Roboline</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
@@ -122,19 +122,15 @@ if ($conn->query($sql) === TRUE) {
             <div id="navbar" class="navbar-collapse collapse">
                 <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
                     <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a> </li>
                     <li><a href="blog-archive.php">Blog</a> </li>
-                    <li class="active"><a href="gallery.php">Gallery</a></li>
+                    <li><a href="gallery.php">Gallery</a></li>
+
                     <li><a href="downloads.php">Downloads</a> </li>
+                    <!-- <li><a href="schools.php">Schools</a> </li> -->
 
-                    <!-- courses drop down -->
+                    <!-- events drop down -->
 
-                    <!--<li class="dropdown">-->
-                    <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>-->
-                    <!--<ul class="dropdown-menu" role="menu">-->
-                    <!--<li><a href="course.php">Course Archive</a></li>                -->
-                    <!--<li><a href="course-detail.php">Course Detail</a></li>                -->
-                    <!--</ul>-->
-                    <!--</li>           -->
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="fa fa-angle-down"></span></a>
                         <ul class="dropdown-menu" role="menu">
@@ -142,6 +138,7 @@ if ($conn->query($sql) === TRUE) {
                             <li><a href="roboline.php">Roboline</a></li>
                         </ul>
                     </li>
+
 
                     <!-- gallery dropdown -->
 
@@ -154,12 +151,6 @@ if ($conn->query($sql) === TRUE) {
                     <!--</ul>-->
                     <!--</li>            -->
                     <li><a href="contact.php">Contact</a></li>
-
-
-
-                    <!--<li><a href="404.php">404 Page</a></li>
-
-                                -->
                     <li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>
                 </ul>
             </div><!--/.nav-collapse -->
@@ -208,41 +199,66 @@ if ($conn->query($sql) === TRUE) {
                 <div class="mu-gallery-area">
                     <!-- start title -->
                     <div class="mu-title">
-                        <h2>Gallery</h2>
-<!--                        <p>These are the schools which are helping us in our mission.</p>-->
+                        <h2>ROBOLINE</h2>
+                        <p>
+                            The challenge of the competition is to make a robot that can move on black lines on a white background and reach the finish as soon as possible.
+                            <br>
+                            The competition area has is a special place defined for the robot's operation (hereafter COMPETITION FIELD).
+                            The participants must create an autonomous vehicle (hereafter ROBOT), that will move on the COMPETITION FIELD and do certain tasks.
+                            The ROBOT which will start on the START tile and reach the FINISH tile block by following the black lines in the shortest time will be nominated the winner.
+                        </p>
+
                     </div>
                     <!-- end title -->
                     <!-- start gallery content -->
                     <div class="mu-gallery-content">
                         <!-- Start gallery menu -->
                         <div class="mu-gallery-top">
-                            <ul>
-<!--                                <li class="filter active" data-filter="all">All</li>-->
-<!--                                <li class="filter" data-filter=".lab">Ghaziabad</li>-->
-<!--                                <li class="filter" data-filter=".classroom">Class Room</li>-->
-<!--                                <li class="filter" data-filter=".library">Library</li>-->
-<!--                                <li class="filter" data-filter=".cafe">Cafe</li>-->
-<!--                                <li class="filter" data-filter=".others">Others</li>-->
-                            </ul>
                         </div>
                         <!-- End gallery menu -->
                         <div class="mu-gallery-body">
                             <ul id="mixit-container" class="row">
 
+
+
+                                <!-- start single gallery image -->
+
+
+
                                 <!-- start single gallery image -->
                                 <li class="col-md-4 col-sm-6 col-xs-12 mix lab">
-
                                     <div class="mu-single-gallery">
                                         <div class="mu-single-gallery-item">
                                             <div class="mu-single-gallery-img">
-                                                <a href="gallery-orientation-kdps.php"><img alt="img" src="assets/img/gallery/small/41.jpg"></a>
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/71.jpg"></a>
                                             </div>
                                             <div class="mu-single-gallery-info">
-
                                                 <div class="mu-single-gallery-info-inner">
-                                                    <h4>Classroom Sessions</h4>
-                                                    <p>Kesari Devi Bajaj Public School</p>
-                                                    <a href="gallery-sessions-kdps.php" class="aa-link"><span class="fa fa-link"></span></a>
+                                                    <h4>Roboline</h4>
+                                                    <p>Glimpse from Roboline 2017</p>
+                                                    <a href="assets/img/gallery/big/71.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+
+                                <!-- start single gallery image -->
+                                <li class="col-md-4 col-sm-6 col-xs-12 mix lab">
+                                    <div class="mu-single-gallery">
+                                        <div class="mu-single-gallery-item">
+                                            <div class="mu-single-gallery-img">
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/72.jpg"></a>
+                                            </div>
+                                            <div class="mu-single-gallery-info">
+                                                <div class="mu-single-gallery-info-inner">
+                                                    <h4>Roboline</h4>
+                                                    <p>Glimpse from Roboline 2017</p>
+                                                    <a href="assets/img/gallery/big/72.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -251,42 +267,87 @@ if ($conn->query($sql) === TRUE) {
 
                                 <!-- start single gallery image -->
                                 <li class="col-md-4 col-sm-6 col-xs-12 mix lab">
-
                                     <div class="mu-single-gallery">
                                         <div class="mu-single-gallery-item">
                                             <div class="mu-single-gallery-img">
-                                                <a href="gallery-orientation-edps.php"><img alt="img" src="assets/img/gallery/small/15.jpg"></a>
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/73.jpg"></a>
                                             </div>
                                             <div class="mu-single-gallery-info">
-
                                                 <div class="mu-single-gallery-info-inner">
-                                                    <h4>Classroom Sessions</h4>
-                                                    <p>East Delhi Public School Ghaziabad</p>
-                                                    <a href="gallery-sessions-edps.php" class="aa-link"><span class="fa fa-link"></span></a>
+                                                    <h4>Roboline</h4>
+                                                    <p>Glimpse from Roboline 2017</p>
+                                                    <a href="assets/img/gallery/big/73.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
+
                                 <!-- start single gallery image -->
                                 <li class="col-md-4 col-sm-6 col-xs-12 mix lab">
-
                                     <div class="mu-single-gallery">
                                         <div class="mu-single-gallery-item">
                                             <div class="mu-single-gallery-img">
-                                                <a href="gallery-orientation-edps.php"><img alt="img" src="assets/img/gallery/small/1.jpg"></a>
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/74.jpg"></a>
                                             </div>
                                             <div class="mu-single-gallery-info">
-
                                                 <div class="mu-single-gallery-info-inner">
-                                                       <h4>Orientation Programme</h4>
-                                                       <p>East Delhi Public School Ghaziabad</p>
-                                                    <a href="gallery-orientation-edps.php" class="aa-link"><span class="fa fa-link"></span></a>
+                                                    <h4>Roboline</h4>
+                                                    <p>Glimpse from Roboline 2017</p>
+                                                    <a href="assets/img/gallery/big/74.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
+
+                                <!-- start single gallery image -->
+                                <li class="col-md-4 col-sm-6 col-xs-12 mix lab">
+                                    <div class="mu-single-gallery">
+                                        <div class="mu-single-gallery-item">
+                                            <div class="mu-single-gallery-img">
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/75.jpg"></a>
+                                            </div>
+                                            <div class="mu-single-gallery-info">
+                                                <div class="mu-single-gallery-info-inner">
+                                                    <h4>Roboline</h4>
+                                                    <p>Glimpse from Roboline 2017</p>
+                                                    <a href="assets/img/gallery/big/75.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <!-- start single gallery image -->
+                                <li class="col-md-4 col-sm-6 col-xs-12 mix lab">
+                                    <div class="mu-single-gallery">
+                                        <div class="mu-single-gallery-item">
+                                            <div class="mu-single-gallery-img">
+                                                <a href="#"><img alt="img" src="assets/img/gallery/small/76.jpg"></a>
+                                            </div>
+                                            <div class="mu-single-gallery-info">
+                                                <div class="mu-single-gallery-info-inner">
+                                                    <h4>Udbhaavan</h4>
+                                                    <p>Glimpse from Udbhaavan 2017</p>
+                                                    <a href="assets/img/gallery/big/76.jpg" data-fancybox-group="gallery" class="fancybox"><span class="fa fa-eye"></span></a>
+                                                    <a href="#" class="aa-link"><span class="fa fa-link"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+
+
+
+
+
+
 
 
                             </ul>
@@ -309,29 +370,29 @@ if ($conn->query($sql) === TRUE) {
             <div class="mu-footer-top-area">
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-3">
-<!--                        <div class="mu-footer-widget">-->
-<!--                            <h4>Information</h4>-->
-<!--                            <ul>-->
-<!--                                <li><a href="#">About Us</a></li>-->
-<!--                                <li><a href="">Features</a></li>-->
-<!--                                <li><a href="">Course</a></li>-->
-<!--                                <li><a href="">Event</a></li>-->
-<!--                                <li><a href="">Sitemap</a></li>-->
-<!--                                <li><a href="">Term Of Use</a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
+                        <!--                        <div class="mu-footer-widget">-->
+                        <!--                            <h4>Information</h4>-->
+                        <!--                            <ul>-->
+                        <!--                                <li><a href="#">About Us</a></li>-->
+                        <!--                                <li><a href="">Features</a></li>-->
+                        <!--                                <li><a href="">Course</a></li>-->
+                        <!--                                <li><a href="">Event</a></li>-->
+                        <!--                                <li><a href="">Sitemap</a></li>-->
+                        <!--                                <li><a href="">Term Of Use</a></li>-->
+                        <!--                            </ul>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3">
-<!--                        <div class="mu-footer-widget">-->
-<!--                            <h4>Student Help</h4>-->
-<!--                            <ul>-->
-<!--                                <li><a href="">Get Started</a></li>-->
-<!--                                <li><a href="#">My Questions</a></li>-->
-<!--                                <li><a href="">Download Files</a></li>-->
-<!--                                <li><a href="">Latest Course</a></li>-->
-<!--                                <li><a href="">Academic News</a></li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
+                        <!--                        <div class="mu-footer-widget">-->
+                        <!--                            <h4>Student Help</h4>-->
+                        <!--                            <ul>-->
+                        <!--                                <li><a href="">Get Started</a></li>-->
+                        <!--                                <li><a href="#">My Questions</a></li>-->
+                        <!--                                <li><a href="">Download Files</a></li>-->
+                        <!--                                <li><a href="">Latest Course</a></li>-->
+                        <!--                                <li><a href="">Academic News</a></li>-->
+                        <!--                            </ul>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3">
                         <div class="mu-footer-widget">

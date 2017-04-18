@@ -133,15 +133,15 @@
                     <li><a href="downloads.php">Downloads</a> </li>
                     <!-- <li><a href="schools.php">Schools</a> </li> -->
 
-                    <!-- courses drop down -->
+                    <!-- events drop down -->
 
-                    <!--<li class="dropdown">-->
-                    <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>-->
-                    <!--<ul class="dropdown-menu" role="menu">-->
-                    <!--<li><a href="course.php">Course Archive</a></li>                -->
-                    <!--<li><a href="course-detail.php">Course Detail</a></li>                -->
-                    <!--</ul>-->
-                    <!--</li>           -->
+                    <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="fa fa-angle-down"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                    <li><a href="udbhaavan.php">Udbhaavan</a></li>
+                    <li><a href="roboline.php">Roboline</a></li>
+                    </ul>
+                    </li>
 
 
                     <!-- gallery dropdown -->

@@ -128,11 +128,14 @@ if ($conn->query($sql) === TRUE) {
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-                    <li ><a href="index.php">Home</a></li>
-                    <li class="active"><a href="blog-archive.php">Blog</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li class="active"><a href="about.php">About Us</a></li>
+                    <li><a href="blog-archive.php">Blog</a> </li>
                     <li><a href="gallery.php">Gallery</a></li>
-                    <!-- <li><a href="schools.php">Schools</a> </li> -->
+                    <li><a href="downloads.php">Downloads</a> </li>
 
+
+                    <!-- <li><a href="schools.php">Schools</a> </li> -->
                     <!-- courses drop down -->
 
                     <!--<li class="dropdown">-->
@@ -143,7 +146,13 @@ if ($conn->query($sql) === TRUE) {
                     <!--</ul>-->
                     <!--</li>           -->
 
-
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<span class="fa fa-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="udbhaavan.php">Udbhaavan</a></li>
+                            <li><a href="roboline.php">Roboline</a></li>
+                        </ul>
+                    </li>
                     <!-- gallery dropdown -->
 
                     <!--<li><a href="gallery.php">Gallery</a></li>-->
@@ -155,6 +164,7 @@ if ($conn->query($sql) === TRUE) {
                     <!--</ul>-->
                     <!--</li>            -->
                     <li><a href="contact.php">Contact</a></li>
+
 
 
 
