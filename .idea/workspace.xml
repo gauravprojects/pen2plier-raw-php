@@ -28,14 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="udbhaavan.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="udbhaavan.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/udbhaavan.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0545454">
-              <caret line="245" column="85" selection-start-line="245" selection-start-column="85" selection-end-line="245" selection-end-column="85" />
+            <state vertical-scroll-proportion="0.3327032">
+              <caret line="239" column="107" selection-start-line="239" selection-start-column="107" selection-end-line="239" selection-end-column="107" />
               <folding>
-                <marker date="1492543320475" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-                <marker date="1492543320475" expanded="true" signature="35055:35084" placeholder="SELECT COUNT..visitors..." />
+                <marker date="1492543521910" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
+                <marker date="1492543521910" expanded="true" signature="35053:35082" placeholder="SELECT COUNT..visitors..." />
               </folding>
             </state>
           </provider>
@@ -64,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connection.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27419356">
+            <state vertical-scroll-proportion="-5.8846154">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
@@ -184,8 +184,8 @@
         <option value="$PROJECT_DIR$/gallery.php" />
         <option value="$PROJECT_DIR$/downloads.php" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/udbhaavan.php" />
         <option value="$PROJECT_DIR$/connection.php" />
+        <option value="$PROJECT_DIR$/udbhaavan.php" />
       </list>
     </option>
   </component>
@@ -736,22 +736,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udbhaavan.php">
+    <entry file="file://$PROJECT_DIR$/connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0545454">
-          <caret line="245" column="85" selection-start-line="245" selection-start-column="85" selection-end-line="245" selection-end-column="85" />
-          <folding>
-            <marker date="1492543320475" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-            <marker date="1492543320475" expanded="true" signature="35055:35084" placeholder="SELECT COUNT..visitors..." />
-          </folding>
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/connection.php">
+    <entry file="file://$PROJECT_DIR$/udbhaavan.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27419356">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.3327032">
+          <caret line="239" column="107" selection-start-line="239" selection-start-column="107" selection-end-line="239" selection-end-column="107" />
+          <folding>
+            <marker date="1492543521910" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
+            <marker date="1492543521910" expanded="true" signature="35053:35082" placeholder="SELECT COUNT..visitors..." />
+          </folding>
         </state>
       </provider>
     </entry>
