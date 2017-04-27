@@ -221,7 +221,7 @@ if ($conn->query($sql) === TRUE) {
                         <img src="assets/img/logo/sonalika.jpg" width="200" height="100" style="margin-left: 5%;"/>
                         <img src="assets/img/logo/tweejoy.jpg" width="200" height="100" style="margin-left: 5%;" />
                         <img src="assets/img/logo/quiz.jpg" width="200" height="100" style="margin-left: 5%;" />
-
+                        <br><br>
                     </div>
                     <!-- end title -->
                     <!-- start gallery content -->
