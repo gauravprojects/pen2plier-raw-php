@@ -214,6 +214,13 @@ if ($conn->query($sql) === TRUE) {
                             Spill Kill and Greenovation with an eminent speaker
                             panel comprising of the best science speakers in the city.
                         </p>
+                        <br>
+                        <h3><b>Our Sponsors</b></h3>
+                        <br>
+                        <img src="assets/img/logo/paytm.jpg" width="200" height="100" />
+                        <img src="assets/img/logo/sonalika.jpg" width="200" height="100" style="margin-left: 5%;"/>
+                        <img src="assets/img/logo/tweejoy.jpg" width="200" height="100" style="margin-left: 5%;" />
+                        <img src="assets/img/logo/quiz.jpg" width="200" height="100" style="margin-left: 5%;" />
 
                     </div>
                     <!-- end title -->
