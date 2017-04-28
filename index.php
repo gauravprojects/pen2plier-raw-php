@@ -78,7 +78,7 @@
                             <div class="mu-header-top-left">
                                 <div class="mu-top-email">
                                     <i class="fa fa-envelope"></i>
-                                    <span>info@pen2plier.com</span>
+                                    <span>pen2plier@gmail.com</span>
                                 </div>
                                 <div class="mu-top-phone">
                                     <i class="fa fa-phone"></i>

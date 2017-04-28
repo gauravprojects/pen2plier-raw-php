@@ -28,116 +28,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="udbhaavan.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/udbhaavan.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82258064">
-              <caret line="223" column="32" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
+            <state vertical-scroll-proportion="-1.9761904">
+              <caret line="80" column="61" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="61" />
               <folding>
-                <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1493284772174" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-                <marker date="1493284772174" expanded="true" signature="35630:35659" placeholder="SELECT COUNT..visitors..." />
+                <marker date="1493383802912" expanded="true" signature="81:139" placeholder="INSERT INTO ..." />
+                <marker date="1493383802912" expanded="true" signature="39650:39679" placeholder="SELECT COUNT..visitors..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1651" column="12" selection-start-line="1651" selection-start-column="12" selection-end-line="1651" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="roboline.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/roboline.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="139" column="25" selection-start-line="133" selection-start-column="20" selection-end-line="139" selection-end-column="25" />
-              <folding>
-                <marker date="1492542059650" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-                <marker date="1492542059650" expanded="true" signature="22261:22290" placeholder="SELECT COUNT..visitors..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/connection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery-sessions-edps.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery-sessions-edps.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="384" column="37" selection-start-line="367" selection-start-column="32" selection-end-line="384" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="130" column="25" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="169" column="0" selection-start-line="133" selection-start-column="20" selection-end-line="169" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-archive.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog-archive.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="154" column="25" selection-start-line="148" selection-start-column="20" selection-end-line="154" selection-end-column="25" />
-              <folding>
-                <marker date="1492542138062" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-                <marker date="1492542138062" expanded="true" signature="31072:31101" placeholder="SELECT COUNT..visitors..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
-              <folding>
-                <marker date="1492542164090" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-                <marker date="1492542164090" expanded="true" signature="17646:17675" placeholder="SELECT COUNT..visitors..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="downloads.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/downloads.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.27419356">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -161,7 +69,6 @@
         <option value="$PROJECT_DIR$/process_login.php" />
         <option value="$PROJECT_DIR$/process_statics.php" />
         <option value="$PROJECT_DIR$/process_contact.php" />
-        <option value="$PROJECT_DIR$/cfl.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0064e3/Bv0064e3/connection.php" />
         <option value="$PROJECT_DIR$/top10science.php" />
         <option value="$PROJECT_DIR$/robotics_in_schools.php" />
@@ -169,8 +76,6 @@
         <option value="$PROJECT_DIR$/scss/style.scss" />
         <option value="$PROJECT_DIR$/scss/base/_variables.scss" />
         <option value="$PROJECT_DIR$/gallery-sessions-edps.php" />
-        <option value="$PROJECT_DIR$/gallery-orientation-edps.php" />
-        <option value="$PROJECT_DIR$/gallery-sessions-kdps.php" />
         <option value="$PROJECT_DIR$/state.php" />
         <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/api.php" />
@@ -178,17 +83,20 @@
         <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/assets/css/theme-color/default-theme.css" />
         <option value="$PROJECT_DIR$/process_subscribtion.php" />
-        <option value="$PROJECT_DIR$/events.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/roboline.php" />
-        <option value="$PROJECT_DIR$/about.php" />
-        <option value="$PROJECT_DIR$/blog-archive.php" />
-        <option value="$PROJECT_DIR$/gallery.php" />
-        <option value="$PROJECT_DIR$/downloads.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/connection.php" />
         <option value="$PROJECT_DIR$/udbhaavan.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/cfl.php" />
+        <option value="$PROJECT_DIR$/downloads.php" />
+        <option value="$PROJECT_DIR$/events.php" />
+        <option value="$PROJECT_DIR$/gallery.php" />
+        <option value="$PROJECT_DIR$/gallery-orientation-edps.php" />
+        <option value="$PROJECT_DIR$/gallery-sessions-kdps.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/blog-archive.php" />
+        <option value="$PROJECT_DIR$/connection.php" />
       </list>
     </option>
   </component>
@@ -284,8 +192,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +247,7 @@
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30610687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31068704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -376,21 +284,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/downloads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="309" column="53" selection-start-line="309" selection-start-column="53" selection-end-line="309" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -559,20 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery-sessions-kdps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="804" column="89" selection-start-line="804" selection-start-column="89" selection-end-line="804" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery-orientation-edps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="218" column="33" selection-start-line="218" selection-start-column="33" selection-end-line="218" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.79599273">
@@ -643,28 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/events.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8545455">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="156" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery-sessions-edps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="384" column="37" selection-start-line="367" selection-start-column="32" selection-end-line="384" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -678,82 +535,147 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/udbhaavan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="61" />
+          <folding>
+            <marker date="1493383455451" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1493383455451" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/roboline.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.6904762">
           <caret line="139" column="25" selection-start-line="133" selection-start-column="20" selection-end-line="139" selection-end-column="25" />
           <folding>
-            <marker date="1492542059650" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-            <marker date="1492542059650" expanded="true" signature="22261:22290" placeholder="SELECT COUNT..visitors..." />
+            <marker date="1492542059650" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492542059650" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="58" column="61" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="169" column="0" selection-start-line="133" selection-start-column="20" selection-end-line="169" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.5595238">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog-archive.php">
+    <entry file="file://$PROJECT_DIR$/cfl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="154" column="25" selection-start-line="148" selection-start-column="20" selection-end-line="154" selection-end-column="25" />
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="80" column="60" selection-start-line="80" selection-start-column="60" selection-end-line="80" selection-end-column="60" />
           <folding>
-            <marker date="1492542138062" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-            <marker date="1492542138062" expanded="true" signature="31072:31101" placeholder="SELECT COUNT..visitors..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
-          <folding>
-            <marker date="1492542164090" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-            <marker date="1492542164090" expanded="true" signature="17646:17675" placeholder="SELECT COUNT..visitors..." />
+            <marker date="1493383803009" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1493383803009" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/downloads.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="58" column="61" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/events.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="130" column="25" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="58" column="61" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="61" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-orientation-edps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="61" />
+          <folding>
+            <marker date="1493383802880" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1493383802880" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-sessions-edps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-77.71429">
+          <caret line="384" column="37" selection-start-line="367" selection-start-column="32" selection-end-line="384" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-sessions-kdps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="61" />
+          <folding>
+            <marker date="1493383802933" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1493383802933" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.302">
+          <caret line="83" column="61" selection-start-line="83" selection-start-column="61" selection-end-line="83" selection-end-column="61" />
+          <folding>
+            <marker date="1493383854451" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1493383854451" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.332">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="61" />
+          <folding>
+            <marker date="1493383802940" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1493383802940" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..visitors..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9761904">
+          <caret line="80" column="61" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="61" />
+          <folding>
+            <marker date="1493383802912" expanded="true" signature="81:139" placeholder="INSERT INTO ..." />
+            <marker date="1493383802912" expanded="true" signature="39650:39679" placeholder="SELECT COUNT..visitors..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.27419356">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udbhaavan.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82258064">
-          <caret line="223" column="32" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1493284772174" expanded="true" signature="65:123" placeholder="INSERT INTO ..." />
-            <marker date="1493284772174" expanded="true" signature="35630:35659" placeholder="SELECT COUNT..visitors..." />
-          </folding>
         </state>
       </provider>
     </entry>
